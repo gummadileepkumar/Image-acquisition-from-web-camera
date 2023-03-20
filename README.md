@@ -63,9 +63,6 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
-
-
-
 ## iii) Display the video by resizing the window
 ```python
 import numpy as np
@@ -91,10 +88,6 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
-
-
-
-
 ## iv) Rotate and display the video
 ```python
 import numpy as np
@@ -125,17 +118,10 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 ![model](2.1.png)
-
-
 ### ii) Display the video
 ![model](2.2digital.png)
-
-
 ### iii) Display the video by resizing the window
 ![model](2.3digital.png)
-
-
-
 ### iv) Rotate and display the video
 ![model](2.4digital.png)
 
