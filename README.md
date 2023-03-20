@@ -118,10 +118,42 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 ![model](2.1.png)
+
+
+
+
+
 ### ii) Display the video
 ![model](2.2digital.png)
+
+
+
+
+
+
+
+
 ### iii) Display the video by resizing the window
 ![model](2.3digital.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### iv) Rotate and display the video
 ![model](2.4digital.png)
 
